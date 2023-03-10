@@ -11,7 +11,7 @@ export default function About() {
                     <p className="card-text text-center m-5">Hey, I am Bhanuprakash Vasa, an aspiring developer with a degree in Computer Science And Engineering
                         . I am currently learning new skills with a vision of becoming better at what I do.
                         I like Web Development and to Create a new Interfaces. I also have Frontend skills in HTML, CSS, Javascript, React js and Backend skills in
-                        node js, mongoDB, express.</p>
+                        Node JS, MongoDB, Express.</p>
                 </div>
                 <div className="resume">
                     <a href="https://drive.google.com/file/d/1qKtdPehSP8lpsap-sX3n2ZGLViBVGu_s/view?usp=sharing"
